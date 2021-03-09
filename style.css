@@ -18,7 +18,11 @@ h2.trips {
 }
 .paragraphs{  
   font-family: 'Raleway', sans-serif;
-  text-align:start;
+  text-align:left;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
 }
 article{
     color: black;
