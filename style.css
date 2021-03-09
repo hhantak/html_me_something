@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: rebeccapurple;
+    padding-bottom: 0px;
+}
+h2.bio {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    color: rebeccapurple;
+    font-size: 32px;
+}
+h2.trips {
+    font-family: 'Raleway', sans-serif;
+    color: rebeccapurple;
+    font-size: 32px;
+}
+.paragraphs{  
+  font-family: 'Raleway', sans-serif;
+  text-align:start;
+}
+article{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background:lightgrey
+}
